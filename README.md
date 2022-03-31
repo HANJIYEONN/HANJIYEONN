@@ -1,3 +1,5 @@
+<p align="center"><img width="80%" src="https://github.com/HANJIYEONN/HANJIYEONN/blob/main/assets/2.%EB%B0%B0%EB%84%88-1.png" /></p>
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=HANJIYEONN&show_icons=true&theme=radical" alt="hanJiYeonn's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANJIYEONN&layout=compact&theme=radical" /> |
 | ----- | ----- |
 
